@@ -1,0 +1,5 @@
+opencv-python
+matplotlib
+numpy
+defisheye
+Pillow # defisheye kan behöva Pillow, och det är bra att ha explicit
